@@ -1,0 +1,9 @@
+{
+  "private": false,
+  "name": "vue-datalayer",
+  "version": "0.0.1",
+  "description": "Plugin to implement dataLayer on Vue 2.0",
+  "author": "Lauro Sollero",
+  "main": "index.js",
+  "license": "MIT"
+}
